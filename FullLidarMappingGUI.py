@@ -104,7 +104,7 @@ class ModernLidarMappingGUI:
         style.configure('Title.TLabel', 
                        background=self.colors['bg'],
                        foreground=self.colors['text'],
-                       font=('Arial', 16, 'bold'))  # خط أصغر
+                       font=('Arial', 16, 'bold'))  
         
         style.configure('Card.TLabelframe', 
                        background=self.colors['card_bg'],
